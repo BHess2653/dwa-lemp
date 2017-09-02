@@ -36,7 +36,7 @@ humans.txt
 
 Name: John Smith
 
-Site: http://165.227.121.31/
+Site: http://bhess.me
 ```
 After you download or create humans.txt cd to its location and nano it to make sure it looks like mine up above.
 
